@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6b5b270-7bff-4872-9ae5-5d50a061d028" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bubble.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BubbleRightToLeft.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FoodRandom.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLauKids.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IceCream.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiniProject2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticingKotling.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecipeandoAndo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/miniProject1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLau.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/ForLauKids.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/ForLauKidsKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/META-INF/kotlinExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/META-INF/kotlinExercises.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForLauKids.kt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.BubbleRightToLeftKt">
+  <component name="RunManager" selected="Kotlin.ForLauKt">
     <configuration name="BubbleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinExercises" />
       <option name="VM_PARAMETERS" />
@@ -92,14 +83,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniProject1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ForLauKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinExercises" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MiniProject1Kt" />
+      <option name="MAIN_CLASS_NAME" value="ForLauKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForLauKt" />
         <item itemvalue="Kotlin.BubbleRightToLeftKt" />
         <item itemvalue="Kotlin.ForLauKidsKt" />
         <item itemvalue="Kotlin.BubbleKt" />
         <item itemvalue="Kotlin.MiniProject2Kt" />
-        <item itemvalue="Kotlin.MiniProject1Kt" />
       </list>
     </recent_temporary>
   </component>
