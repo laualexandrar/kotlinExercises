@@ -50,16 +50,16 @@ fun main() {
         println()
     }
 
-    println ("Now the empty rectangle")
+    println("Now the empty rectangle")
 
-    for(i in 1..5){
+    for (i in 1..5) {
         for (j in 1..40) {
-            if(i==1 || i==5) {
+            if (i == 1 || i == 5) {
                 print("* ")
             } else {
-                if(j==1 || j==40){
+                if (j == 1 || j == 40) {
                     print("* ")
-                }else{
+                } else {
                     print("  ")
                 }
             }
@@ -67,30 +67,56 @@ fun main() {
         println()
     }
 
+    println("Now I am going to draw a triangle")
+
+    for (i in 1..3) {
+
+        for (j in 1..5) {
+            if (i == 1 && j != 3) {
+                print("  ")
+            } else if (i == 1 && j == 3){
+                print("* ")
+            }
+            if (i == 2 && j == 1 ){
+                print("  ")
+            } else if (i == 2 && j== 2){
+                print("* ")
+            }else if(i == 2 && j==3){
+                print("  ")
+            } else if(i == 2 && j==4){
+                print("* ")
+            } else if (i ==2 && j == 5){
+                print("  ")
+            }
+            if (i == 3) {
+                print("* ")
+            }
+        }
+
+        println()
+    }
+
     println("Now Create a method that allows to draw a rectangle with custom width and height (Filled rectangle not empty")
 
     val height = Scanner(System.`in`)
     print("Enter height: ")
-    var enteredheight:Int = height.nextInt()
+    var enteredheight: Int = height.nextInt()
     println("You entered: $enteredheight")
 
     val width = Scanner(System.`in`)
     print("Enter width: ")
-    var enteredwidth:Int = height.nextInt()
+    var enteredwidth: Int = height.nextInt()
     println("You entered: $enteredwidth")
 
-//    println("add the height")
-//    var height = Integer.valueOf(readLine())
-//    println("add the width")
-//    var width = Integer.valueOf(readLine())
 
-
-    for (i in 1..enteredheight){
-        for (j in 1..enteredwidth){
+    for (i in 1..enteredheight) {
+        for (j in 1..enteredwidth) {
             print("* ")
         }
         println()
     }
+
+
 
 }
 
