@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6b5b270-7bff-4872-9ae5-5d50a061d028" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BubbleOddNumbers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubblePractice.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/META-INF/kotlinExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/META-INF/kotlinExercises.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/RecipeandoAndoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/RecipeandoAndoKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/recipeandoAndo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/recipeandoAndo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/BubbleOddNumbersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/BubbleOddNumbersKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/EvenNumbersKtn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/EvenNumbersKtn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/EvenNumbersKtnKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/EvenNumbersKtnKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleOddNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleOddNumbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EvenNumbersKtn.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenNumbersKtn.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -43,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.BubbleOddNumbersKt">
+  <component name="RunManager" selected="Kotlin.BubblePracticeKt">
     <configuration name="BubbleOddNumbersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinExercises" />
       <option name="VM_PARAMETERS" />
@@ -52,6 +53,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="BubbleOddNumbersKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubblePracticeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlinExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BubblePracticeKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,27 +97,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLauKidsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="GFG" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinExercises" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ForLauKidsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForLauKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlinExercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ForLauKt" />
+      <option name="MAIN_CLASS_NAME" value="GFG" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,18 +112,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.BubbleRightToLeftKt" />
-      <item itemvalue="Kotlin.ForLauKidsKt" />
-      <item itemvalue="Kotlin.ForLauKt" />
       <item itemvalue="Kotlin.EvenNumbersKtnKt" />
       <item itemvalue="Kotlin.BubbleOddNumbersKt" />
+      <item itemvalue="Kotlin.GFG" />
+      <item itemvalue="Kotlin.BubblePracticeKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BubblePracticeKt" />
+        <item itemvalue="Kotlin.GFG" />
+        <item itemvalue="Kotlin.EvenNumbersKtnKt" />
         <item itemvalue="Kotlin.BubbleOddNumbersKt" />
         <item itemvalue="Kotlin.BubbleRightToLeftKt" />
-        <item itemvalue="Kotlin.EvenNumbersKtnKt" />
-        <item itemvalue="Kotlin.ForLauKt" />
-        <item itemvalue="Kotlin.ForLauKidsKt" />
       </list>
     </recent_temporary>
   </component>
