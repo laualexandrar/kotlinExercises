@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6b5b270-7bff-4872-9ae5-5d50a061d028" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BubblePractice.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/BubbleOddNumbersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/BubbleOddNumbersKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/EvenNumbersKtn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/EvenNumbersKtn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlinExercises/EvenNumbersKtnKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinExercises/EvenNumbersKtnKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleOddNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleOddNumbers.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EvenNumbersKtn.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenNumbersKtn.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
